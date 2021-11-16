@@ -1,0 +1,22 @@
+{
+  "name": "it-4_adweb_finals_chat-app",
+  "version": "1.0.0",
+  "description": "Group Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJmistMAGO/IT-4_AdWeb_Finals_Chat-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJmistMAGO/IT-4_AdWeb_Finals_Chat-App/issues"
+  },
+  "homepage": "https://github.com/DJmistMAGO/IT-4_AdWeb_Finals_Chat-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
